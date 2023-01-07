@@ -1,0 +1,7 @@
+
+To Kill a Mockingbird,Harper Lee,Hachette
+1984,George Orwell,Penguin Random House
+Harry Potter and the Philosopher’s Stone,J.K. Rowling,Simon & Schuster
+The Great Gatsby,F. Scott Fitzgerald,Macmillan
+Pride and Prejudice,Jane Austen,Harper Collins
+
