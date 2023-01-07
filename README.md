@@ -1,6 +1,5 @@
 # Borrow a book system
-
-
+A first year school project. It contains 3 parts. Due to pandemic reasons it was imagined a borrowing book system using an ATM. You will have a card(like credit card). Write a password and depending on your age(user age) you will be connected to adults library or children library. In that time I did not speak English so the first part is in Albanian language and the second and third has some comments in a broken English. How the parts are divided I will write on read me.
 
 ## Getting started
 
